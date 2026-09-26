@@ -1,0 +1,501 @@
+content_id,date,platform,topic,format,hook,caption_style,video_length_sec,views,likes,comments,shares,saves,retention_rate,follower_growth,engagement_rate,viral_coefficient
+1,2026-01-27,Instagram,Productivity,Short,Visual,Advice,23,4116,196,16,28,21,0.669,8,0.0634,0.0483
+2,2026-03-01,Instagram,Productivity,Short,Text,Question,28,3573,150,10,39,31,0.711,13,0.0644,0.0648
+3,2026-03-13,Instagram,Friendship,Short,Visual,Relatable,52,2205,96,11,24,17,0.643,11,0.0671,0.0664
+4,2026-03-28,YouTube,Social Anxiety,Short,Text,Advice,28,2256,101,10,26,15,0.571,10,0.0674,0.0657
+5,2026-06-04,YouTube,Social Anxiety,Short,Text,Question,37,2092,106,8,16,24,0.639,12,0.0736,0.0643
+6,2026-03-17,YouTube,College Stress,Short,Text,Question,50,2017,64,9,17,11,0.706,7,0.0501,0.0508
+7,2026-03-16,Instagram,Productivity,Long,Visual,Question,90,5088,163,21,49,29,0.502,26,0.0515,0.0545
+8,2026-04-04,YouTube,Social Anxiety,Short,Visual,Relatable,55,3436,225,14,36,24,0.751,13,0.087,0.0679
+9,2026-06-24,YouTube,Dating,Long,Text,Story,180,1140,46,5,9,10,0.492,3,0.0614,0.0579
+10,2026-03-11,Instagram,Productivity,Short,Visual,Story,39,4351,207,22,31,31,0.751,11,0.0669,0.0551
+11,2026-03-22,Instagram,Productivity,Short,Text,Question,17,3697,129,11,27,24,0.708,14,0.0517,0.0481
+12,2026-05-08,YouTube,Self Doubt,Long,Visual,Story,144,5128,207,20,67,54,0.624,30,0.0679,0.0762
+13,2026-05-24,Instagram,Self Doubt,Long,Visual,Advice,156,2912,120,12,20,17,0.725,6,0.058,0.0488
+14,2026-05-11,YouTube,Friendship,Long,Text,Relatable,78,1185,42,7,10,10,0.633,5,0.0582,0.0599
+15,2026-06-24,Instagram,Self Doubt,Short,Visual,Question,25,1762,106,9,20,18,0.64,11,0.0868,0.0772
+16,2026-05-22,YouTube,Self Doubt,Short,Text,Relatable,31,7271,385,33,58,56,0.644,27,0.0732,0.0594
+17,2026-02-10,Instagram,Social Anxiety,Short,Text,Advice,42,3613,131,17,33,25,0.651,11,0.057,0.0574
+18,2026-03-18,Instagram,Self Doubt,Short,Text,Story,55,4001,161,20,46,33,0.617,26,0.065,0.0685
+19,2026-01-01,Instagram,Productivity,Short,Visual,Advice,48,856,32,2,7,5,0.678,2,0.0537,0.0491
+20,2026-03-20,Instagram,Friendship,Long,Text,Question,107,4066,126,14,38,44,0.529,16,0.0546,0.0626
+21,2026-01-18,Instagram,Dating,Short,Visual,Question,46,6265,257,32,59,55,0.74,31,0.0643,0.0637
+22,2026-06-05,Instagram,Friendship,Short,Visual,Relatable,48,1681,95,7,15,10,0.686,6,0.0756,0.059
+23,2026-04-06,YouTube,Self Doubt,Short,Visual,Advice,56,1087,57,3,12,7,0.685,6,0.0727,0.0632
+24,2026-01-06,Instagram,Self Doubt,Long,Visual,Story,104,2316,76,14,33,17,0.529,14,0.0604,0.0747
+25,2026-01-16,Instagram,Friendship,Short,Visual,Question,55,3455,170,13,27,36,0.785,18,0.0712,0.0622
+26,2026-03-13,Instagram,Dating,Short,Visual,Advice,30,1169,51,5,14,10,0.775,7,0.0684,0.0704
+27,2026-05-02,YouTube,Productivity,Long,Visual,Story,161,1915,56,10,20,10,0.619,5,0.0501,0.0569
+28,2026-04-16,YouTube,Self Doubt,Short,Visual,Question,42,3339,181,17,30,32,0.583,12,0.0779,0.0673
+29,2026-01-28,YouTube,Self Doubt,Short,Visual,Question,36,6330,337,36,75,56,0.614,24,0.0796,0.0751
+30,2026-03-13,Instagram,Dating,Short,Visual,Relatable,26,1223,50,7,12,13,0.618,6,0.067,0.0695
+31,2026-05-19,Instagram,Self Doubt,Short,Visual,Relatable,56,3006,154,15,28,31,0.796,12,0.0758,0.0689
+32,2026-02-24,YouTube,Social Anxiety,Short,Visual,Story,45,3063,138,21,49,38,0.669,19,0.0803,0.0944
+33,2026-04-27,Instagram,Self Doubt,Short,Visual,Relatable,31,4054,247,25,42,35,0.674,24,0.0861,0.0728
+34,2026-01-15,Instagram,College Stress,Long,Text,Story,88,1632,55,9,17,14,0.509,5,0.0582,0.0651
+35,2026-05-09,Instagram,Friendship,Short,Text,Question,45,3095,159,16,33,29,0.539,14,0.0766,0.0713
+36,2026-01-18,Instagram,Friendship,Short,Visual,Question,53,5368,301,30,72,45,0.632,29,0.0835,0.0794
+37,2026-01-11,Instagram,Productivity,Short,Text,Question,53,4320,181,20,45,28,0.721,17,0.0634,0.0616
+38,2026-03-22,YouTube,Friendship,Short,Text,Advice,57,3318,110,14,30,22,0.562,14,0.053,0.055
+39,2026-01-19,YouTube,Dating,Long,Text,Story,101,2193,62,10,25,15,0.637,11,0.0511,0.0618
+40,2026-02-03,Instagram,Social Anxiety,Long,Visual,Question,94,14085,672,82,218,132,0.747,78,0.0784,0.0858
+41,2026-05-20,YouTube,College Stress,Short,Visual,Advice,43,1938,84,5,12,17,0.748,8,0.0609,0.0508
+42,2026-03-09,Instagram,Productivity,Long,Visual,Advice,78,1805,53,5,13,12,0.733,6,0.046,0.0464
+43,2026-03-29,YouTube,Social Anxiety,Short,Visual,Advice,28,1313,87,7,14,12,0.753,6,0.0914,0.0748
+44,2026-04-19,Instagram,Dating,Long,Text,Advice,142,1853,73,5,12,9,0.448,3,0.0534,0.043
+45,2026-02-11,Instagram,College Stress,Short,Visual,Advice,31,3977,176,12,36,28,0.742,12,0.0634,0.0568
+46,2026-06-26,Instagram,Productivity,Long,Text,Question,174,815,27,3,4,5,0.446,2,0.0479,0.0408
+47,2026-03-20,YouTube,Dating,Short,Text,Story,17,6349,289,24,45,59,0.631,17,0.0657,0.0569
+48,2026-04-01,Instagram,College Stress,Short,Text,Story,21,4539,189,19,46,36,0.64,21,0.0639,0.063
+49,2026-02-15,Instagram,Friendship,Long,Visual,Story,164,2700,133,16,24,17,0.647,7,0.0704,0.0605
+50,2026-03-05,YouTube,Self Doubt,Short,Visual,Advice,57,2172,97,11,15,20,0.697,7,0.0658,0.0579
+51,2026-02-26,Instagram,College Stress,Short,Visual,Relatable,45,3759,180,21,46,37,0.625,17,0.0756,0.0767
+52,2026-06-18,Instagram,Dating,Long,Text,Advice,64,4266,171,23,34,29,0.493,19,0.0602,0.0556
+53,2026-03-31,Instagram,Dating,Long,Text,Advice,96,4253,175,17,42,37,0.534,14,0.0637,0.0633
+54,2026-02-15,Instagram,Productivity,Long,Text,Question,94,3004,110,10,31,20,0.624,8,0.0569,0.0584
+55,2026-03-22,YouTube,Friendship,Long,Visual,Question,154,3680,181,17,42,29,0.59,15,0.0731,0.0692
+56,2026-04-22,YouTube,Self Doubt,Short,Text,Story,60,6523,325,38,80,43,0.534,32,0.0745,0.0712
+57,2026-06-09,Instagram,Social Anxiety,Short,Text,Relatable,36,3131,146,21,32,24,0.576,11,0.0712,0.0677
+58,2026-06-28,YouTube,College Stress,Short,Text,Advice,40,4442,143,13,41,23,0.739,19,0.0495,0.0505
+59,2026-06-07,YouTube,College Stress,Short,Visual,Relatable,26,2194,78,13,21,17,0.699,11,0.0588,0.062
+60,2026-04-21,YouTube,Friendship,Long,Text,Question,87,1935,55,10,19,15,0.659,11,0.0512,0.0598
+61,2026-05-11,YouTube,Friendship,Long,Text,Relatable,88,2944,79,14,22,20,0.47,7,0.0459,0.0498
+62,2026-06-22,YouTube,Self Doubt,Short,Visual,Advice,30,6810,351,38,63,46,0.742,35,0.0731,0.0625
+63,2026-05-02,Instagram,College Stress,Short,Visual,Story,30,3448,122,16,47,28,0.681,20,0.0618,0.0729
+64,2026-04-09,Instagram,Friendship,Short,Text,Relatable,59,2251,104,12,29,14,0.779,9,0.0706,0.0706
+65,2026-01-28,Instagram,Self Doubt,Long,Visual,Story,157,12374,450,50,140,101,0.535,63,0.0599,0.0654
+66,2026-02-01,Instagram,Self Doubt,Short,Visual,Relatable,30,859,49,4,8,10,0.709,5,0.0827,0.0725
+67,2026-04-20,YouTube,Self Doubt,Short,Text,Advice,47,1263,68,6,8,6,0.777,3,0.0697,0.0491
+68,2026-03-05,YouTube,Friendship,Long,Visual,Relatable,157,3612,136,23,51,40,0.512,22,0.0692,0.0835
+69,2026-03-15,YouTube,Productivity,Long,Text,Story,70,1057,25,5,11,10,0.502,6,0.0482,0.0632
+70,2026-03-01,Instagram,Dating,Long,Text,Advice,80,7986,340,40,57,58,0.575,22,0.062,0.0541
+71,2026-05-19,YouTube,Self Doubt,Short,Visual,Question,36,3223,138,16,37,25,0.721,11,0.067,0.0681
+72,2026-05-30,YouTube,Self Doubt,Long,Visual,Story,176,3489,162,17,49,32,0.764,21,0.0745,0.0794
+73,2026-04-10,Instagram,Productivity,Short,Text,Relatable,34,2535,79,8,27,21,0.708,13,0.0533,0.061
+74,2026-01-08,YouTube,Self Doubt,Short,Text,Story,46,2248,75,10,24,19,0.603,10,0.0569,0.0639
+75,2026-06-09,YouTube,Self Doubt,Long,Text,Story,77,2502,92,14,24,24,0.607,14,0.0616,0.0655
+76,2026-02-04,Instagram,Friendship,Short,Text,Question,42,2952,112,13,36,24,0.694,13,0.0627,0.0689
+77,2026-04-27,YouTube,Self Doubt,Short,Visual,Advice,28,1276,49,4,9,7,0.734,3,0.0541,0.0464
+78,2026-01-21,YouTube,College Stress,Long,Text,Advice,167,1457,44,7,11,11,0.589,4,0.0501,0.0525
+79,2026-06-16,Instagram,Self Doubt,Short,Visual,Advice,19,2111,87,6,16,16,0.617,6,0.0592,0.0525
+80,2026-03-03,Instagram,Social Anxiety,Short,Visual,Story,24,3094,183,12,46,33,0.497,13,0.0886,0.0865
+81,2026-04-05,YouTube,Dating,Long,Visual,Story,93,2771,124,15,24,19,0.582,10,0.0657,0.059
+82,2026-03-21,Instagram,Dating,Short,Visual,Advice,16,13949,616,57,155,74,0.655,49,0.0647,0.0611
+83,2026-06-10,Instagram,Friendship,Long,Text,Story,149,4336,156,21,33,37,0.575,17,0.057,0.0562
+84,2026-04-20,Instagram,Dating,Short,Text,Question,49,1760,69,5,14,11,0.558,5,0.0563,0.0504
+85,2026-05-06,Instagram,Productivity,Long,Visual,Advice,114,8925,361,33,57,62,0.671,31,0.0575,0.0487
+86,2026-05-14,Instagram,Social Anxiety,Long,Text,Relatable,83,2238,72,11,23,24,0.677,12,0.0581,0.0677
+87,2026-06-01,YouTube,Productivity,Long,Text,Relatable,154,1201,30,4,9,7,0.595,3,0.0416,0.0454
+88,2026-03-04,YouTube,College Stress,Long,Visual,Question,118,1739,77,5,17,12,0.556,9,0.0638,0.0585
+89,2026-02-16,YouTube,Self Doubt,Long,Text,Question,102,2552,115,14,29,18,0.477,9,0.069,0.0677
+90,2026-06-29,YouTube,Self Doubt,Short,Text,Advice,53,4202,191,19,32,38,0.647,13,0.0666,0.0591
+91,2026-05-06,Instagram,College Stress,Short,Visual,Question,41,1815,82,6,13,15,0.536,5,0.0639,0.0543
+92,2026-01-24,YouTube,Friendship,Short,Text,Relatable,16,1421,61,7,10,11,0.651,4,0.0626,0.0547
+93,2026-04-05,YouTube,College Stress,Short,Text,Story,52,5733,202,29,62,50,0.584,27,0.0598,0.0663
+94,2026-03-11,YouTube,Self Doubt,Long,Text,Advice,119,943,41,4,11,5,0.467,4,0.0647,0.0628
+95,2026-05-18,Instagram,College Stress,Long,Visual,Question,76,3153,121,16,24,29,0.588,10,0.0603,0.0584
+96,2026-05-15,YouTube,Productivity,Short,Visual,Story,52,2423,120,11,24,17,0.654,13,0.071,0.0629
+97,2026-02-15,YouTube,Friendship,Long,Visual,Story,107,6508,253,29,72,50,0.567,35,0.0621,0.065
+98,2026-03-16,Instagram,College Stress,Short,Visual,Advice,50,1067,57,3,10,9,0.681,4,0.074,0.0626
+99,2026-05-01,Instagram,Productivity,Short,Text,Question,33,1140,35,5,10,8,0.722,5,0.0509,0.0546
+100,2026-05-03,Instagram,Self Doubt,Long,Text,Story,171,2171,71,9,26,13,0.582,10,0.0548,0.0623
+101,2026-06-25,Instagram,Social Anxiety,Short,Text,Relatable,55,4069,181,27,35,50,0.657,15,0.072,0.0715
+102,2026-05-23,Instagram,Social Anxiety,Short,Visual,Advice,22,6881,307,27,86,67,0.644,41,0.0708,0.074
+103,2026-04-20,YouTube,Self Doubt,Short,Text,Relatable,52,3900,151,18,33,45,0.78,19,0.0633,0.0651
+104,2026-01-21,Instagram,College Stress,Short,Visual,Story,57,1670,92,6,18,13,0.494,8,0.0772,0.0671
+105,2026-04-26,Instagram,Dating,Short,Visual,Question,41,3200,166,18,37,20,0.738,15,0.0753,0.0686
+106,2026-03-14,Instagram,Productivity,Long,Text,Question,151,1246,44,6,13,8,0.701,4,0.057,0.0602
+107,2026-06-10,YouTube,Productivity,Long,Visual,Story,162,3090,114,12,22,21,0.688,12,0.0547,0.05
+108,2026-03-10,Instagram,Friendship,Short,Text,Question,24,5187,272,21,44,49,0.444,21,0.0744,0.0635
+109,2026-03-15,YouTube,Dating,Short,Visual,Story,51,2518,97,9,27,20,0.56,14,0.0608,0.063
+110,2026-05-19,YouTube,Self Doubt,Short,Text,Advice,47,6016,283,18,59,37,0.482,31,0.066,0.058
+111,2026-06-04,YouTube,Self Doubt,Long,Visual,Question,102,2502,81,15,27,22,0.511,8,0.058,0.067
+112,2026-03-10,Instagram,College Stress,Short,Visual,Story,58,1792,96,6,15,10,0.734,6,0.0709,0.0547
+113,2026-02-16,YouTube,Friendship,Short,Visual,Relatable,32,1875,103,9,22,16,0.689,8,0.08,0.0732
+114,2026-03-27,YouTube,Friendship,Long,Text,Question,113,1386,41,7,17,10,0.566,5,0.0541,0.0662
+115,2026-03-15,YouTube,College Stress,Short,Visual,Advice,46,1448,49,4,15,11,0.82,4,0.0546,0.0589
+116,2026-03-24,Instagram,Productivity,Long,Visual,Relatable,93,1885,72,6,14,18,0.542,5,0.0584,0.0557
+117,2026-05-13,YouTube,Social Anxiety,Long,Visual,Relatable,85,1346,48,6,19,16,0.657,10,0.0661,0.0817
+118,2026-02-03,Instagram,College Stress,Long,Text,Question,131,8691,246,32,96,46,0.469,26,0.0483,0.0563
+119,2026-03-03,Instagram,College Stress,Long,Text,Question,138,3684,117,19,39,25,0.45,13,0.0543,0.061
+120,2026-01-30,YouTube,Productivity,Short,Text,Question,29,7011,236,30,55,53,0.49,25,0.0533,0.0535
+121,2026-03-11,YouTube,Self Doubt,Short,Visual,Relatable,60,3419,191,13,50,31,0.672,25,0.0834,0.0817
+122,2026-04-09,YouTube,Self Doubt,Long,Text,Story,79,2396,66,10,25,23,0.658,9,0.0518,0.0636
+123,2026-03-10,YouTube,Dating,Short,Visual,Advice,47,3331,195,14,25,21,0.665,7,0.0766,0.0561
+124,2026-05-04,Instagram,Social Anxiety,Long,Text,Relatable,129,1033,42,6,14,8,0.594,3,0.0678,0.075
+125,2026-06-28,YouTube,College Stress,Long,Text,Relatable,85,3520,122,18,27,37,0.629,14,0.058,0.0604
+126,2026-05-02,Instagram,Dating,Long,Visual,Relatable,156,3825,115,15,50,25,0.41,20,0.0536,0.0657
+127,2026-05-09,YouTube,Productivity,Long,Text,Story,77,2003,56,7,20,13,0.437,8,0.0479,0.0552
+128,2026-04-27,Instagram,Friendship,Long,Visual,Relatable,177,11531,565,66,110,74,0.576,40,0.0707,0.0623
+129,2026-03-28,Instagram,Social Anxiety,Short,Text,Story,31,2050,98,11,20,23,0.64,7,0.0741,0.0717
+130,2026-05-05,YouTube,Friendship,Long,Visual,Advice,141,3350,134,16,31,21,0.573,16,0.0603,0.0575
+131,2026-04-22,YouTube,Friendship,Short,Visual,Story,20,4496,193,23,46,29,0.758,24,0.0647,0.062
+132,2026-01-12,YouTube,Social Anxiety,Short,Text,Story,16,1264,62,8,16,14,0.612,8,0.0791,0.0819
+133,2026-03-04,YouTube,College Stress,Short,Text,Advice,24,5125,180,20,34,48,0.667,25,0.055,0.0533
+134,2026-04-08,Instagram,Friendship,Long,Visual,Story,139,5074,156,28,50,57,0.611,34,0.0574,0.068
+135,2026-03-07,Instagram,Friendship,Short,Text,Story,55,2905,149,17,26,31,0.685,9,0.0768,0.0698
+136,2026-02-10,YouTube,Self Doubt,Long,Visual,Relatable,130,1195,39,4,16,9,0.64,7,0.0569,0.0684
+137,2026-04-27,YouTube,Social Anxiety,Long,Text,Advice,93,2639,107,14,22,24,0.515,14,0.0633,0.0613
+138,2026-05-27,Instagram,College Stress,Short,Text,Relatable,39,1239,38,7,8,12,0.677,5,0.0525,0.0549
+139,2026-05-25,YouTube,College Stress,Long,Text,Question,62,2129,70,9,23,21,0.663,12,0.0578,0.0667
+140,2026-02-26,Instagram,Productivity,Short,Text,Advice,37,999,42,3,5,6,0.489,2,0.0561,0.042
+141,2026-06-15,Instagram,Productivity,Short,Text,Story,55,1552,45,4,18,11,0.569,6,0.0503,0.0601
+142,2026-01-24,YouTube,Social Anxiety,Long,Text,Question,77,1486,72,9,11,13,0.605,7,0.0707,0.0609
+143,2026-05-19,Instagram,College Stress,Long,Text,Story,161,2886,101,10,35,19,0.604,17,0.0572,0.0635
+144,2026-03-28,YouTube,College Stress,Long,Visual,Advice,98,6365,238,21,46,37,0.73,16,0.0537,0.0476
+145,2026-06-22,Instagram,Social Anxiety,Long,Visual,Story,147,1969,68,13,31,24,0.695,18,0.0691,0.0901
+146,2026-02-01,Instagram,Self Doubt,Long,Visual,Relatable,129,2338,108,13,21,26,0.506,9,0.0719,0.0691
+147,2026-03-01,YouTube,Self Doubt,Long,Text,Relatable,147,3401,130,18,26,39,0.429,13,0.0626,0.0634
+148,2026-06-29,Instagram,Self Doubt,Short,Text,Story,44,4244,192,16,41,35,0.717,15,0.0669,0.0624
+149,2026-05-07,Instagram,College Stress,Long,Visual,Story,99,2917,85,11,34,17,0.744,16,0.0504,0.0596
+150,2026-06-21,YouTube,Social Anxiety,Short,Visual,Story,38,310,17,2,3,3,0.61,1,0.0806,0.0718
+151,2026-06-07,Instagram,Productivity,Long,Visual,Relatable,123,4357,177,21,54,43,0.571,27,0.0677,0.0743
+152,2026-03-02,Instagram,Self Doubt,Long,Visual,Advice,117,4132,184,19,48,25,0.669,23,0.0668,0.065
+153,2026-02-18,Instagram,College Stress,Short,Text,Advice,32,2674,98,12,17,23,0.642,11,0.0561,0.0522
+154,2026-03-27,Instagram,Social Anxiety,Long,Visual,Story,161,2574,102,15,42,27,0.6,14,0.0723,0.0886
+155,2026-03-01,Instagram,Dating,Short,Visual,Question,28,4534,244,15,55,37,0.853,29,0.0774,0.0711
+156,2026-03-06,Instagram,College Stress,Short,Visual,Advice,49,6540,358,19,76,52,0.565,22,0.0772,0.0688
+157,2026-05-31,Instagram,Dating,Short,Visual,Story,30,5990,222,30,59,55,0.598,19,0.0611,0.0647
+158,2026-05-15,Instagram,College Stress,Short,Visual,Advice,41,3784,130,10,30,26,0.638,16,0.0518,0.0501
+159,2026-01-28,YouTube,Social Anxiety,Short,Text,Relatable,52,2077,88,15,22,20,0.78,8,0.0698,0.0725
+160,2026-01-16,YouTube,Self Doubt,Short,Visual,Advice,16,4544,193,14,51,39,0.759,18,0.0654,0.0661
+161,2026-04-24,YouTube,Self Doubt,Long,Text,Question,177,4548,159,23,41,33,0.542,25,0.0563,0.0579
+162,2026-06-09,Instagram,Social Anxiety,Short,Text,Story,32,5343,223,24,42,57,0.613,21,0.0648,0.0621
+163,2026-04-21,YouTube,Productivity,Long,Text,Advice,138,2825,110,8,27,22,0.639,14,0.0591,0.0582
+164,2026-04-16,YouTube,Social Anxiety,Short,Visual,Relatable,29,4019,231,17,36,51,0.729,22,0.0834,0.073
+165,2026-03-22,Instagram,College Stress,Long,Text,Relatable,115,2812,75,10,30,22,0.665,10,0.0487,0.0597
+166,2026-01-22,YouTube,Productivity,Long,Text,Story,72,1841,60,6,19,12,0.549,7,0.0527,0.057
+167,2026-05-31,Instagram,Social Anxiety,Long,Visual,Advice,68,2221,104,9,27,23,0.406,14,0.0734,0.075
+168,2026-04-19,YouTube,Friendship,Long,Visual,Relatable,146,2934,94,12,44,20,0.554,16,0.0579,0.0728
+169,2026-05-10,YouTube,Productivity,Short,Text,Advice,51,7920,311,21,54,54,0.7,18,0.0556,0.0479
+170,2026-04-05,Instagram,Dating,Short,Text,Story,50,2502,83,11,19,22,0.623,11,0.054,0.0553
+171,2026-06-18,Instagram,Social Anxiety,Long,Visual,Relatable,179,2056,76,8,29,23,0.646,8,0.0661,0.0798
+172,2026-03-21,YouTube,Productivity,Long,Visual,Story,158,9679,405,47,115,68,0.629,56,0.0656,0.0674
+173,2026-04-13,Instagram,College Stress,Long,Visual,Story,145,7018,255,35,75,66,0.616,25,0.0614,0.0674
+174,2026-04-27,Instagram,Social Anxiety,Short,Visual,Question,41,1524,94,8,18,14,0.638,9,0.0879,0.0771
+175,2026-06-02,YouTube,College Stress,Short,Text,Advice,51,3055,104,13,18,15,0.64,7,0.0491,0.0424
+176,2026-03-11,Instagram,Social Anxiety,Short,Visual,Story,20,6058,364,38,73,54,0.671,29,0.0873,0.0784
+177,2026-05-12,YouTube,Self Doubt,Long,Text,Relatable,88,3449,122,20,36,39,0.634,23,0.0629,0.0715
+178,2026-06-01,YouTube,Social Anxiety,Long,Text,Question,147,1031,43,6,8,10,0.504,4,0.065,0.0618
+179,2026-01-02,YouTube,Self Doubt,Long,Visual,Story,68,1985,90,12,18,15,0.632,11,0.068,0.0627
+180,2026-01-31,YouTube,Dating,Long,Visual,Story,102,3679,143,15,50,30,0.577,20,0.0647,0.0729
+181,2026-06-30,Instagram,Social Anxiety,Long,Text,Story,129,6289,208,32,92,52,0.411,40,0.0611,0.0763
+182,2026-04-28,Instagram,Dating,Long,Visual,Relatable,63,6124,195,38,67,45,0.543,20,0.0563,0.0648
+183,2026-04-14,YouTube,Social Anxiety,Long,Text,Relatable,75,3133,114,21,34,26,0.447,16,0.0622,0.0683
+184,2026-01-28,YouTube,Social Anxiety,Long,Visual,Relatable,116,1728,64,7,25,19,0.642,10,0.0666,0.0807
+185,2026-03-28,YouTube,Dating,Long,Text,Question,100,3820,139,21,28,23,0.584,11,0.0552,0.0514
+186,2026-02-19,Instagram,Dating,Long,Visual,Question,126,3076,146,10,24,24,0.545,15,0.0663,0.0558
+187,2026-02-20,Instagram,College Stress,Long,Visual,Story,93,3137,90,11,43,33,0.44,12,0.0564,0.0746
+188,2026-05-29,YouTube,Dating,Short,Visual,Story,51,3263,182,15,36,28,0.716,17,0.08,0.0711
+189,2026-04-24,YouTube,Self Doubt,Long,Text,Story,121,6126,190,34,82,41,0.467,35,0.0566,0.0696
+190,2026-03-21,YouTube,Productivity,Long,Text,Question,70,5987,158,27,61,56,0.537,32,0.0504,0.0626
+191,2026-01-20,YouTube,Self Doubt,Long,Visual,Question,97,14217,689,70,108,154,0.595,71,0.0718,0.064
+192,2026-06-16,Instagram,Productivity,Short,Text,Relatable,51,1480,61,6,14,8,0.683,6,0.0601,0.0556
+193,2026-03-29,Instagram,Dating,Long,Text,Story,74,2859,118,16,29,28,0.576,17,0.0668,0.0687
+194,2026-04-23,Instagram,Productivity,Short,Visual,Question,43,997,46,4,10,8,0.605,4,0.0682,0.0637
+195,2026-03-28,YouTube,Friendship,Short,Text,Advice,41,2703,120,8,21,19,0.64,9,0.0622,0.0529
+196,2026-06-23,YouTube,Productivity,Short,Text,Question,50,1676,62,5,12,10,0.754,3,0.0531,0.0471
+197,2026-06-19,YouTube,Self Doubt,Long,Text,Story,135,8667,335,42,83,96,0.631,44,0.0642,0.0678
+198,2026-01-22,Instagram,Dating,Long,Text,Relatable,151,2218,71,10,21,20,0.548,10,0.055,0.0612
+199,2026-04-19,Instagram,College Stress,Long,Text,Story,146,7330,281,38,89,42,0.595,27,0.0614,0.0652
+200,2026-03-29,YouTube,Friendship,Long,Visual,Advice,88,2529,123,8,31,17,0.631,8,0.0708,0.0671
+201,2026-01-26,Instagram,Self Doubt,Short,Visual,Story,33,991,43,4,13,9,0.672,4,0.0696,0.0744
+202,2026-02-16,YouTube,Friendship,Short,Text,Story,25,7977,307,37,61,56,0.692,33,0.0578,0.0536
+203,2026-03-02,YouTube,Productivity,Short,Text,Question,58,3192,134,10,28,19,0.523,15,0.0598,0.0534
+204,2026-05-01,Instagram,Self Doubt,Long,Text,Story,164,7393,277,27,83,86,0.544,43,0.064,0.0718
+205,2026-05-09,YouTube,Dating,Long,Text,Relatable,109,3077,92,12,33,25,0.553,17,0.0526,0.0617
+206,2026-01-14,Instagram,Friendship,Long,Visual,Story,93,2492,87,14,24,26,0.66,11,0.0606,0.0669
+207,2026-02-11,Instagram,Productivity,Long,Text,Question,71,1924,64,7,17,11,0.572,8,0.0515,0.0517
+208,2026-04-26,Instagram,College Stress,Long,Visual,Relatable,89,2368,70,7,27,21,0.636,12,0.0528,0.0638
+209,2026-03-02,YouTube,College Stress,Short,Text,Question,38,2074,87,8,24,12,0.52,10,0.0632,0.0626
+210,2026-06-16,Instagram,Self Doubt,Short,Text,Story,21,1172,57,6,15,8,0.477,4,0.0734,0.0719
+211,2026-06-28,YouTube,College Stress,Short,Visual,Question,45,4314,172,13,31,41,0.81,13,0.0596,0.0551
+212,2026-02-25,Instagram,Dating,Long,Text,Question,93,1457,47,4,13,8,0.493,6,0.0494,0.0499
+213,2026-01-13,Instagram,Dating,Long,Visual,Advice,76,3470,161,15,34,23,0.476,12,0.0671,0.0607
+214,2026-05-08,Instagram,Dating,Long,Text,Question,176,4683,182,20,31,39,0.706,22,0.0581,0.0526
+215,2026-06-07,YouTube,Friendship,Short,Visual,Story,15,4230,175,21,35,36,0.606,20,0.0631,0.0596
+216,2026-01-18,Instagram,College Stress,Short,Text,Story,38,7003,323,40,54,54,0.533,21,0.0673,0.0587
+217,2026-04-06,Instagram,Friendship,Short,Text,Relatable,39,6558,288,35,50,69,0.641,21,0.0674,0.0629
+218,2026-06-10,YouTube,College Stress,Short,Text,Question,57,4135,183,12,32,27,0.677,13,0.0614,0.0517
+219,2026-06-14,YouTube,Social Anxiety,Long,Visual,Question,104,903,38,4,11,8,0.641,6,0.0676,0.0714
+220,2026-04-28,Instagram,Dating,Long,Text,Story,152,3509,144,13,44,23,0.55,20,0.0638,0.0665
+221,2026-03-22,Instagram,Social Anxiety,Long,Visual,Question,66,5417,286,33,76,44,0.577,22,0.081,0.0807
+222,2026-02-18,Instagram,College Stress,Long,Text,Advice,143,1377,50,4,14,10,0.522,7,0.0566,0.0585
+223,2026-04-05,YouTube,College Stress,Long,Visual,Advice,163,2932,114,13,21,21,0.665,9,0.0576,0.0522
+224,2026-06-27,YouTube,Self Doubt,Long,Text,Relatable,124,2341,67,8,19,28,0.471,11,0.0521,0.0606
+225,2026-06-04,YouTube,Self Doubt,Long,Text,Question,116,2847,94,13,26,18,0.589,12,0.053,0.0551
+226,2026-03-17,Instagram,Dating,Long,Text,Question,145,4234,158,15,28,40,0.447,15,0.0569,0.0534
+227,2026-01-11,YouTube,College Stress,Long,Text,Story,118,3283,135,12,23,20,0.523,9,0.0579,0.049
+228,2026-06-13,Instagram,Productivity,Long,Text,Advice,146,3628,89,13,37,29,0.5,17,0.0463,0.0581
+229,2026-06-23,Instagram,Self Doubt,Long,Visual,Question,138,5525,229,25,46,58,0.481,24,0.0648,0.0631
+230,2026-04-04,Instagram,Self Doubt,Short,Visual,Question,56,2143,101,12,26,21,0.586,7,0.0747,0.0762
+231,2026-04-24,YouTube,College Stress,Long,Visual,Story,108,2049,57,8,25,13,0.393,9,0.0503,0.0621
+232,2026-03-05,YouTube,Social Anxiety,Short,Text,Relatable,32,1562,77,8,22,11,0.628,8,0.0755,0.0763
+233,2026-01-31,YouTube,Social Anxiety,Short,Visual,Relatable,50,2234,135,12,26,21,0.609,11,0.0868,0.0769
+234,2026-05-06,YouTube,College Stress,Long,Text,Story,178,3587,146,19,29,33,0.567,14,0.0633,0.0608
+235,2026-04-24,YouTube,Dating,Short,Visual,Question,60,4631,168,26,47,40,0.641,24,0.0607,0.0652
+236,2026-02-10,YouTube,Social Anxiety,Long,Text,Question,99,3567,150,13,38,25,0.614,18,0.0634,0.062
+237,2026-03-02,Instagram,Productivity,Short,Text,Story,23,11033,325,36,112,63,0.641,31,0.0486,0.0541
+238,2026-02-03,YouTube,Self Doubt,Short,Text,Advice,50,1769,70,7,18,15,0.734,6,0.0622,0.0633
+239,2026-05-15,YouTube,Friendship,Short,Visual,Advice,45,6442,276,19,46,64,0.738,22,0.0629,0.0564
+240,2026-04-26,YouTube,Self Doubt,Long,Visual,Story,70,4423,170,18,39,43,0.705,23,0.061,0.0616
+241,2026-01-15,Instagram,Self Doubt,Long,Visual,Story,125,4009,126,25,55,31,0.773,29,0.0591,0.0738
+242,2026-02-27,Instagram,Social Anxiety,Short,Text,Story,60,7678,416,50,95,58,0.774,35,0.0806,0.0755
+243,2026-03-12,Instagram,College Stress,Long,Visual,Advice,131,1511,54,6,17,9,0.443,4,0.0569,0.0606
+244,2026-06-09,Instagram,Dating,Long,Visual,Story,145,3417,143,14,45,36,0.587,24,0.0697,0.0772
+245,2026-05-28,Instagram,Productivity,Long,Visual,Question,143,2674,106,10,30,22,0.623,15,0.0628,0.0656
+246,2026-05-20,YouTube,College Stress,Short,Text,Question,55,1517,62,8,17,8,0.67,5,0.0626,0.0623
+247,2026-01-19,YouTube,College Stress,Long,Text,Story,119,3865,148,14,36,38,0.498,20,0.0611,0.0626
+248,2026-02-22,YouTube,Productivity,Short,Visual,Relatable,44,13296,571,52,142,119,0.766,80,0.0665,0.0665
+249,2026-04-05,YouTube,College Stress,Short,Text,Advice,23,6893,230,26,38,41,0.684,22,0.0486,0.0424
+250,2026-04-26,YouTube,Friendship,Short,Text,Story,32,6885,255,35,80,65,0.596,28,0.0632,0.0706
+251,2026-04-18,YouTube,Dating,Short,Visual,Question,54,6488,315,20,78,37,0.631,33,0.0694,0.0642
+252,2026-05-08,Instagram,Dating,Short,Text,Advice,25,1161,40,4,12,11,0.541,5,0.0577,0.0637
+253,2026-04-11,YouTube,Friendship,Long,Text,Advice,72,9159,392,41,75,67,0.518,40,0.0628,0.0566
+254,2026-03-14,YouTube,Friendship,Long,Visual,Story,67,6363,203,33,71,61,0.554,23,0.0578,0.0684
+255,2026-03-09,Instagram,Self Doubt,Long,Text,Question,78,8122,306,40,87,82,0.71,35,0.0634,0.0691
+256,2026-05-26,Instagram,Productivity,Long,Text,Advice,67,2967,73,8,20,23,0.655,11,0.0418,0.0459
+257,2026-04-26,Instagram,Friendship,Short,Text,Advice,47,3157,133,10,24,23,0.748,8,0.0602,0.0527
+258,2026-03-28,Instagram,Friendship,Long,Visual,Story,108,4072,183,26,59,39,0.491,23,0.0754,0.0834
+259,2026-01-12,YouTube,Friendship,Long,Visual,Story,66,6592,214,30,91,54,0.647,38,0.059,0.0727
+260,2026-05-12,YouTube,Social Anxiety,Short,Text,Relatable,53,1319,59,6,10,9,0.658,5,0.0637,0.0544
+261,2026-03-18,YouTube,Dating,Long,Text,Story,155,3266,102,19,27,27,0.409,17,0.0536,0.0579
+262,2026-04-05,YouTube,Friendship,Long,Text,Advice,63,2345,96,9,20,13,0.582,6,0.0588,0.0527
+263,2026-03-09,Instagram,College Stress,Short,Text,Advice,45,2928,114,13,28,16,0.772,12,0.0584,0.056
+264,2026-06-08,Instagram,Productivity,Short,Visual,Relatable,55,3854,178,22,28,22,0.634,11,0.0649,0.0533
+265,2026-04-23,Instagram,Self Doubt,Short,Visual,Question,16,1684,100,6,15,16,0.614,7,0.0814,0.0659
+266,2026-06-06,Instagram,College Stress,Long,Visual,Relatable,125,2117,61,12,17,18,0.599,8,0.051,0.0568
+267,2026-05-15,YouTube,Self Doubt,Short,Visual,Story,45,4812,181,26,72,45,0.657,38,0.0673,0.0811
+268,2026-06-23,YouTube,Self Doubt,Long,Visual,Relatable,106,2776,100,16,43,21,0.552,18,0.0648,0.0793
+269,2026-03-18,Instagram,Productivity,Long,Text,Story,132,3607,111,20,34,25,0.441,11,0.0527,0.0582
+270,2026-03-31,YouTube,Dating,Long,Text,Story,122,2258,69,13,23,19,0.507,7,0.0549,0.0637
+271,2026-03-30,YouTube,Friendship,Long,Text,Question,111,3939,110,20,38,24,0.605,15,0.0487,0.0557
+272,2026-04-24,Instagram,Dating,Long,Visual,Advice,179,1308,62,6,13,9,0.595,5,0.0688,0.0623
+273,2026-03-11,Instagram,Productivity,Long,Text,Story,129,4457,109,19,47,34,0.715,14,0.0469,0.0594
+274,2026-06-21,Instagram,Friendship,Long,Visual,Question,67,1981,70,7,18,19,0.648,9,0.0575,0.0606
+275,2026-05-01,Instagram,Friendship,Short,Visual,Question,36,3677,212,20,32,29,0.66,20,0.0797,0.0645
+276,2026-05-03,YouTube,Social Anxiety,Short,Visual,Story,45,2864,186,16,36,21,0.621,16,0.0904,0.077
+277,2026-01-23,YouTube,Productivity,Short,Text,Advice,18,2259,98,10,14,15,0.722,6,0.0606,0.0494
+278,2026-01-10,YouTube,Productivity,Short,Visual,Story,26,3773,172,19,35,37,0.789,18,0.0697,0.0664
+279,2026-05-26,Instagram,Self Doubt,Long,Visual,Advice,99,4084,191,15,50,40,0.532,18,0.0725,0.0735
+280,2026-05-15,YouTube,Friendship,Short,Text,Advice,49,2089,108,9,14,15,0.589,7,0.0699,0.0539
+281,2026-03-26,Instagram,Self Doubt,Short,Text,Advice,22,3028,165,12,35,26,0.743,16,0.0786,0.0714
+282,2026-03-17,Instagram,Dating,Long,Text,Story,104,1376,36,6,13,13,0.53,8,0.0494,0.0603
+283,2026-01-23,YouTube,Friendship,Short,Visual,Relatable,35,3382,138,20,47,31,0.652,22,0.0698,0.0791
+284,2026-01-02,YouTube,Self Doubt,Short,Visual,Story,30,2447,140,12,25,22,0.524,14,0.0813,0.0703
+285,2026-05-30,YouTube,College Stress,Long,Visual,Relatable,99,1556,64,8,12,11,0.56,4,0.0611,0.0553
+286,2026-01-31,Instagram,Productivity,Short,Text,Advice,57,1937,83,8,16,11,0.468,8,0.0609,0.053
+287,2026-06-13,YouTube,Self Doubt,Long,Visual,Relatable,76,3875,169,15,51,32,0.598,23,0.0689,0.0727
+288,2026-04-27,Instagram,College Stress,Long,Visual,Story,80,2295,99,9,26,21,0.642,11,0.0675,0.069
+289,2026-06-24,Instagram,Productivity,Long,Text,Relatable,92,1555,37,6,15,15,0.496,9,0.0469,0.06
+290,2026-01-29,Instagram,Friendship,Short,Text,Advice,51,4771,224,17,53,40,0.683,23,0.07,0.0672
+291,2026-04-24,YouTube,Social Anxiety,Short,Visual,Story,48,2734,144,18,35,25,0.602,20,0.0812,0.0797
+292,2026-04-27,YouTube,Social Anxiety,Short,Text,Question,18,2638,98,15,35,21,0.555,17,0.0641,0.0735
+293,2026-03-20,YouTube,Dating,Long,Text,Question,164,4161,163,22,26,43,0.529,19,0.061,0.0571
+294,2026-05-29,Instagram,Productivity,Short,Text,Advice,28,5311,180,24,31,40,0.588,18,0.0518,0.0478
+295,2026-01-18,Instagram,Social Anxiety,Short,Text,Advice,18,2577,94,12,22,23,0.602,9,0.0586,0.0596
+296,2026-06-14,Instagram,Self Doubt,Short,Text,Relatable,23,5899,202,38,76,60,0.561,36,0.0637,0.0772
+297,2026-04-07,YouTube,Productivity,Long,Text,Relatable,178,2785,100,9,26,29,0.536,16,0.0589,0.0627
+298,2026-04-11,Instagram,Self Doubt,Short,Visual,Advice,49,1850,106,8,14,10,0.683,7,0.0746,0.0543
+299,2026-06-22,Instagram,Friendship,Short,Visual,Question,44,5618,325,27,60,44,0.72,23,0.0812,0.0694
+300,2026-02-09,Instagram,Productivity,Long,Text,Story,105,7770,257,41,67,65,0.522,36,0.0553,0.0588
+301,2026-03-03,YouTube,College Stress,Short,Visual,Question,16,8655,338,37,64,62,0.739,31,0.0579,0.0527
+302,2026-06-30,YouTube,Dating,Short,Visual,Question,58,3927,195,20,41,34,0.691,13,0.0738,0.0687
+303,2026-02-25,YouTube,Social Anxiety,Short,Visual,Relatable,49,1839,98,7,18,16,0.574,10,0.0756,0.0658
+304,2026-06-22,YouTube,Social Anxiety,Short,Text,Story,53,2583,105,15,25,20,0.465,11,0.0639,0.0634
+305,2026-03-12,Instagram,College Stress,Short,Text,Story,34,2438,112,11,23,17,0.57,13,0.0669,0.0605
+306,2026-06-21,Instagram,Social Anxiety,Short,Text,Relatable,56,1796,91,7,18,18,0.614,10,0.0746,0.0686
+307,2026-02-17,Instagram,Self Doubt,Long,Text,Relatable,109,10257,467,41,93,89,0.545,42,0.0673,0.0619
+308,2026-02-06,YouTube,Friendship,Long,Visual,Story,151,5117,227,27,51,54,0.585,33,0.0702,0.07
+309,2026-03-07,Instagram,Self Doubt,Short,Text,Relatable,30,2177,84,8,24,22,0.642,8,0.0634,0.0684
+310,2026-02-18,YouTube,Dating,Long,Visual,Relatable,129,1735,63,6,18,17,0.423,6,0.0599,0.065
+311,2026-05-31,Instagram,Social Anxiety,Long,Text,Question,163,2575,125,14,30,21,0.498,13,0.0738,0.0716
+312,2026-02-24,YouTube,Productivity,Short,Text,Story,15,3409,154,16,23,33,0.691,9,0.0663,0.0579
+313,2026-05-22,Instagram,Dating,Short,Text,Story,30,1417,45,6,12,12,0.639,6,0.0529,0.0566
+314,2026-04-03,YouTube,College Stress,Long,Text,Relatable,94,834,30,4,9,7,0.609,3,0.06,0.0653
+315,2026-03-23,YouTube,Friendship,Long,Text,Question,168,1372,44,7,12,13,0.624,7,0.0554,0.0609
+316,2026-02-26,Instagram,Dating,Long,Text,Relatable,171,913,33,4,9,9,0.495,4,0.0602,0.0649
+317,2026-02-20,YouTube,Productivity,Short,Visual,Advice,24,1466,60,4,15,9,0.647,4,0.06,0.0573
+318,2026-06-25,YouTube,College Stress,Short,Text,Story,56,3078,132,12,21,23,0.617,9,0.0611,0.052
+319,2026-04-01,YouTube,College Stress,Long,Text,Relatable,154,5581,173,21,70,45,0.679,32,0.0554,0.0671
+320,2026-01-20,Instagram,Dating,Short,Text,Story,17,2893,93,14,37,23,0.538,10,0.0577,0.0696
+321,2026-03-01,Instagram,Productivity,Short,Visual,Relatable,55,2814,100,9,33,22,0.65,11,0.0583,0.0645
+322,2026-06-08,YouTube,Social Anxiety,Short,Visual,Story,18,2805,181,16,42,36,0.698,16,0.098,0.0953
+323,2026-04-16,Instagram,Productivity,Long,Text,Question,131,2780,82,10,24,15,0.586,10,0.0471,0.0495
+324,2026-06-22,Instagram,Social Anxiety,Short,Text,Advice,59,8286,466,38,71,60,0.65,26,0.0766,0.0611
+325,2026-06-08,Instagram,Self Doubt,Short,Visual,Question,27,2672,117,16,30,20,0.642,13,0.0685,0.0686
+326,2026-04-14,YouTube,Friendship,Long,Text,Advice,108,2665,101,11,22,27,0.461,14,0.0604,0.0607
+327,2026-01-09,Instagram,Self Doubt,Short,Visual,Advice,56,6097,320,22,57,34,0.837,22,0.071,0.0577
+328,2026-01-03,YouTube,Social Anxiety,Long,Text,Relatable,142,1106,54,7,14,11,0.569,7,0.0778,0.0796
+329,2026-05-25,YouTube,Productivity,Short,Visual,Relatable,36,3641,126,19,32,36,0.649,21,0.0585,0.0626
+330,2026-01-20,YouTube,Social Anxiety,Short,Visual,Story,17,2749,184,15,42,28,0.586,16,0.0979,0.0911
+331,2026-05-31,YouTube,Productivity,Long,Visual,Story,87,1654,66,6,16,12,0.548,7,0.0605,0.0589
+332,2026-05-26,Instagram,Dating,Long,Visual,Advice,91,6477,286,28,80,39,0.573,22,0.0669,0.0666
+333,2026-03-30,Instagram,Self Doubt,Long,Text,Story,156,2626,112,16,19,29,0.641,11,0.067,0.0636
+334,2026-06-07,Instagram,Social Anxiety,Short,Text,Story,53,13583,795,53,151,150,0.645,83,0.0846,0.0759
+335,2026-05-06,YouTube,Friendship,Long,Text,Question,118,1803,58,7,20,12,0.583,6,0.0538,0.0605
+336,2026-06-19,Instagram,Dating,Long,Text,Relatable,135,2104,55,11,25,21,0.619,8,0.0532,0.07
+337,2026-02-09,Instagram,Self Doubt,Short,Text,Story,32,5015,239,29,63,48,0.69,20,0.0756,0.0774
+338,2026-01-02,YouTube,Self Doubt,Short,Text,Advice,20,1749,73,7,11,12,0.628,4,0.0589,0.049
+339,2026-02-17,Instagram,College Stress,Long,Text,Advice,72,870,22,3,8,7,0.567,2,0.046,0.0552
+340,2026-05-22,Instagram,Self Doubt,Long,Text,Question,106,2684,88,10,22,27,0.493,15,0.0548,0.0585
+341,2026-01-22,YouTube,Social Anxiety,Long,Text,Question,110,5111,185,26,44,51,0.534,30,0.0599,0.0625
+342,2026-03-19,Instagram,Productivity,Short,Visual,Relatable,32,1018,46,3,13,8,0.776,5,0.0688,0.0697
+343,2026-04-18,Instagram,College Stress,Long,Visual,Question,96,9607,281,46,79,84,0.699,49,0.051,0.0567
+344,2026-06-10,YouTube,College Stress,Long,Visual,Advice,153,3476,130,10,37,21,0.71,14,0.057,0.0577
+345,2026-04-12,Instagram,Self Doubt,Short,Text,Question,15,1897,89,6,21,14,0.597,5,0.0685,0.0644
+346,2026-06-16,YouTube,College Stress,Long,Text,Relatable,165,1984,58,10,13,20,0.551,5,0.0509,0.0547
+347,2026-02-15,Instagram,Friendship,Short,Text,Advice,35,5096,201,16,41,33,0.561,22,0.0571,0.0517
+348,2026-03-13,Instagram,Self Doubt,Long,Text,Relatable,109,5812,254,28,77,49,0.497,41,0.0702,0.0748
+349,2026-05-21,Instagram,Self Doubt,Long,Visual,Story,159,3542,144,16,44,36,0.553,13,0.0678,0.0745
+350,2026-01-18,YouTube,Social Anxiety,Long,Visual,Relatable,149,4185,202,30,63,54,0.535,33,0.0834,0.0938
+351,2026-02-09,Instagram,Self Doubt,Long,Visual,Advice,145,1995,93,9,14,14,0.575,9,0.0652,0.0535
+352,2026-05-30,YouTube,Productivity,Long,Text,Question,122,472,14,1,3,3,0.551,1,0.0445,0.0424
+353,2026-03-05,Instagram,Self Doubt,Long,Visual,Advice,159,2220,105,11,18,19,0.716,9,0.0689,0.0607
+354,2026-04-21,YouTube,Productivity,Long,Visual,Question,103,2496,96,10,20,14,0.629,9,0.0561,0.0509
+355,2026-05-23,Instagram,Social Anxiety,Short,Visual,Advice,48,1693,98,7,21,11,0.77,10,0.0809,0.0709
+356,2026-05-31,YouTube,Friendship,Short,Text,Advice,58,1684,57,5,15,11,0.517,7,0.0523,0.0527
+357,2026-04-17,YouTube,Productivity,Short,Text,Question,33,2569,97,9,22,20,0.55,6,0.0576,0.056
+358,2026-02-22,YouTube,Social Anxiety,Short,Visual,Advice,44,4229,230,22,41,42,0.677,24,0.0792,0.0703
+359,2026-06-28,Instagram,Friendship,Long,Text,Relatable,153,3964,115,14,48,43,0.552,16,0.0555,0.0706
+360,2026-01-30,Instagram,Self Doubt,Long,Visual,Advice,151,5639,233,22,52,30,0.541,18,0.0598,0.0545
+361,2026-05-22,Instagram,Social Anxiety,Long,Visual,Story,83,3317,173,13,52,38,0.604,26,0.0832,0.0889
+362,2026-06-11,Instagram,Dating,Long,Text,Relatable,112,680,21,2,5,5,0.475,2,0.0485,0.0489
+363,2026-02-20,Instagram,Dating,Short,Text,Relatable,54,2658,87,16,34,27,0.763,20,0.0617,0.0759
+364,2026-06-30,Instagram,Self Doubt,Long,Text,Question,96,4226,121,18,33,29,0.554,11,0.0476,0.0507
+365,2026-01-30,YouTube,Social Anxiety,Short,Visual,Advice,44,6857,385,25,90,64,0.725,35,0.0823,0.0775
+366,2026-03-31,YouTube,College Stress,Long,Text,Relatable,75,1393,42,8,11,11,0.618,7,0.0517,0.0556
+367,2026-03-22,Instagram,College Stress,Long,Visual,Advice,78,2421,74,6,24,16,0.612,7,0.0496,0.0543
+368,2026-02-06,Instagram,Social Anxiety,Short,Text,Question,59,3055,128,15,36,20,0.677,12,0.0651,0.0663
+369,2026-05-05,YouTube,Friendship,Long,Text,Story,84,2651,97,12,19,18,0.66,9,0.0551,0.051
+370,2026-03-22,YouTube,Productivity,Short,Visual,Relatable,26,3988,148,22,33,41,0.71,24,0.0612,0.0629
+371,2026-04-09,YouTube,Self Doubt,Short,Text,Question,27,1054,45,5,7,9,0.667,5,0.0626,0.0548
+372,2026-04-24,YouTube,Friendship,Long,Text,Relatable,168,4258,184,27,57,39,0.504,32,0.0721,0.0788
+373,2026-03-12,Instagram,Self Doubt,Short,Visual,Question,17,1964,96,10,17,18,0.719,9,0.0718,0.0642
+374,2026-01-29,YouTube,Dating,Long,Visual,Relatable,126,3466,153,17,27,21,0.504,11,0.0629,0.0539
+375,2026-05-20,Instagram,Friendship,Short,Text,Advice,43,1322,52,6,13,7,0.678,4,0.059,0.0567
+376,2026-04-26,YouTube,Dating,Long,Visual,Story,65,2942,124,10,28,23,0.561,16,0.0629,0.0598
+377,2026-03-02,Instagram,College Stress,Long,Visual,Relatable,164,1954,68,10,26,21,0.706,12,0.064,0.0778
+378,2026-02-22,Instagram,Dating,Long,Text,Story,87,6468,197,32,58,61,0.503,24,0.0538,0.0608
+379,2026-03-16,YouTube,Social Anxiety,Long,Text,Story,98,3008,103,12,24,23,0.474,14,0.0539,0.0538
+380,2026-03-12,YouTube,Friendship,Long,Visual,Story,68,1095,45,5,14,8,0.759,5,0.0658,0.0701
+381,2026-03-05,Instagram,Productivity,Short,Visual,Story,35,2636,128,11,26,16,0.754,11,0.0687,0.0601
+382,2026-04-07,YouTube,Productivity,Long,Text,Story,114,2083,77,7,13,11,0.468,7,0.0518,0.0436
+383,2026-04-27,YouTube,Self Doubt,Short,Visual,Relatable,38,548,31,3,5,5,0.696,2,0.0803,0.068
+384,2026-06-28,YouTube,Self Doubt,Long,Visual,Question,146,1605,78,7,15,13,0.634,4,0.0704,0.0629
+385,2026-05-07,YouTube,College Stress,Short,Text,Story,28,3736,112,16,35,22,0.591,19,0.0495,0.0538
+386,2026-05-05,Instagram,College Stress,Long,Text,Advice,170,1852,55,6,10,15,0.468,7,0.0464,0.0447
+387,2026-02-10,YouTube,College Stress,Short,Visual,Question,22,4635,234,24,43,31,0.588,16,0.0716,0.0616
+388,2026-02-03,Instagram,Self Doubt,Long,Visual,Relatable,177,5225,179,25,78,58,0.646,44,0.0651,0.0827
+389,2026-03-06,Instagram,Productivity,Long,Visual,Advice,107,2021,74,8,12,14,0.714,7,0.0534,0.0468
+390,2026-06-29,YouTube,Social Anxiety,Long,Visual,Question,100,4073,189,26,34,32,0.554,18,0.069,0.0619
+391,2026-01-20,Instagram,Dating,Long,Visual,Question,122,5906,260,20,62,48,0.52,24,0.066,0.0638
+392,2026-01-31,Instagram,Dating,Short,Text,Question,36,6022,249,34,62,56,0.71,36,0.0666,0.0683
+393,2026-01-27,Instagram,Self Doubt,Short,Text,Question,20,5142,192,22,44,57,0.581,29,0.0613,0.0636
+394,2026-02-04,Instagram,Social Anxiety,Long,Text,Advice,160,5930,243,36,58,47,0.625,21,0.0648,0.0645
+395,2026-02-24,Instagram,Productivity,Short,Visual,Question,37,4684,188,13,53,23,0.748,21,0.0591,0.058
+396,2026-02-05,Instagram,Productivity,Short,Text,Relatable,21,2866,95,14,31,23,0.666,17,0.0569,0.0641
+397,2026-03-05,YouTube,Social Anxiety,Long,Text,Relatable,78,2994,132,20,27,36,0.497,16,0.0718,0.0721
+398,2026-03-19,Instagram,College Stress,Short,Visual,Advice,57,1559,83,4,12,9,0.658,6,0.0693,0.0518
+399,2026-05-07,Instagram,Dating,Short,Text,Advice,30,5936,219,26,53,54,0.679,33,0.0593,0.0608
+400,2026-04-03,Instagram,Self Doubt,Short,Visual,Relatable,15,3119,138,14,33,31,0.629,13,0.0693,0.0694
+401,2026-02-14,YouTube,College Stress,Short,Text,Relatable,58,1980,62,10,16,16,0.753,9,0.0525,0.0558
+402,2026-01-11,Instagram,Self Doubt,Short,Visual,Question,28,2250,104,13,26,21,0.667,12,0.0729,0.0736
+403,2026-01-22,YouTube,Social Anxiety,Long,Text,Relatable,112,2359,105,10,23,20,0.444,10,0.067,0.0637
+404,2026-02-22,YouTube,Productivity,Short,Text,Question,47,1257,59,3,9,10,0.636,5,0.0644,0.0527
+405,2026-03-03,YouTube,Dating,Long,Text,Question,116,897,29,3,6,7,0.476,2,0.0502,0.0488
+406,2026-06-05,Instagram,Social Anxiety,Short,Visual,Relatable,54,5521,368,33,52,40,0.577,31,0.0893,0.0684
+407,2026-06-29,Instagram,Social Anxiety,Long,Visual,Question,78,2089,97,11,27,16,0.578,7,0.0723,0.0736
+408,2026-02-02,YouTube,Social Anxiety,Short,Text,Advice,38,6460,329,27,54,59,0.711,34,0.0726,0.0623
+409,2026-03-11,YouTube,Productivity,Long,Visual,Question,115,4266,128,18,45,34,0.627,18,0.0527,0.0614
+410,2026-04-03,YouTube,Friendship,Short,Text,Question,47,3067,116,13,37,24,0.61,18,0.0619,0.0677
+411,2026-01-27,Instagram,Social Anxiety,Long,Visual,Advice,159,4302,238,15,32,35,0.518,11,0.0744,0.0576
+412,2026-03-04,Instagram,Friendship,Short,Visual,Question,15,3661,172,14,37,34,0.695,11,0.0702,0.0664
+413,2026-01-10,Instagram,Social Anxiety,Long,Text,Relatable,180,9294,396,44,122,69,0.661,38,0.0679,0.072
+414,2026-03-23,Instagram,Friendship,Long,Visual,Advice,178,3764,114,13,30,24,0.645,11,0.0481,0.0494
+415,2026-05-13,Instagram,College Stress,Short,Text,Question,29,2853,128,13,28,16,0.573,14,0.0648,0.0587
+416,2026-03-21,YouTube,Social Anxiety,Long,Visual,Relatable,169,3885,201,27,51,31,0.636,23,0.0798,0.0787
+417,2026-05-25,YouTube,College Stress,Short,Text,Question,33,5244,213,16,42,51,0.701,23,0.0614,0.0582
+418,2026-05-20,YouTube,College Stress,Short,Text,Advice,27,975,36,4,8,8,0.653,3,0.0574,0.0564
+419,2026-03-30,Instagram,Dating,Short,Visual,Relatable,49,1248,65,5,13,12,0.735,7,0.0761,0.0695
+420,2026-01-27,YouTube,Productivity,Short,Text,Question,34,2183,63,7,18,11,0.488,7,0.0454,0.0468
+421,2026-03-13,Instagram,Dating,Short,Text,Relatable,60,2163,98,9,17,15,0.745,5,0.0643,0.055
+422,2026-05-29,YouTube,Social Anxiety,Short,Visual,Relatable,20,4241,273,28,61,32,0.597,20,0.0929,0.0842
+423,2026-02-03,Instagram,Social Anxiety,Short,Text,Question,57,1472,71,7,14,12,0.564,7,0.0707,0.064
+424,2026-03-25,YouTube,Dating,Long,Text,Advice,167,1930,81,10,14,13,0.63,6,0.0611,0.0535
+425,2026-05-30,Instagram,College Stress,Long,Text,Story,78,2567,87,11,19,26,0.482,12,0.0557,0.0574
+426,2026-04-15,YouTube,Social Anxiety,Short,Visual,Story,35,3339,203,17,45,25,0.693,20,0.0869,0.0782
+427,2026-01-31,YouTube,Social Anxiety,Long,Visual,Relatable,94,4277,165,18,43,29,0.527,20,0.0596,0.0597
+428,2026-02-07,Instagram,Social Anxiety,Short,Text,Question,35,3206,128,12,23,23,0.77,14,0.058,0.0515
+429,2026-03-08,Instagram,Social Anxiety,Short,Text,Relatable,34,1879,72,8,22,20,0.529,8,0.0649,0.0724
+430,2026-01-27,Instagram,Dating,Short,Text,Relatable,44,2710,99,11,35,25,0.583,15,0.0627,0.0724
+431,2026-04-13,Instagram,Dating,Short,Visual,Question,27,1063,51,5,12,6,0.53,4,0.0696,0.0642
+432,2026-06-15,Instagram,College Stress,Short,Text,Question,27,5766,247,25,38,47,0.611,15,0.0619,0.0533
+433,2026-01-13,Instagram,Self Doubt,Short,Visual,Advice,44,1665,90,6,15,16,0.647,5,0.0763,0.0652
+434,2026-04-20,Instagram,Dating,Long,Text,Relatable,148,520,13,3,3,4,0.571,1,0.0442,0.0476
+435,2026-02-08,YouTube,Dating,Long,Visual,Story,118,7721,264,26,97,68,0.68,49,0.0589,0.0689
+436,2026-05-03,YouTube,Social Anxiety,Short,Text,Relatable,50,3770,180,19,51,37,0.657,17,0.0761,0.0797
+437,2026-06-14,Instagram,Social Anxiety,Short,Text,Relatable,27,1772,80,11,25,14,0.625,7,0.0734,0.0787
+438,2026-05-05,YouTube,Friendship,Short,Visual,Relatable,49,2491,123,16,21,24,0.755,8,0.0739,0.0665
+439,2026-06-02,Instagram,College Stress,Long,Text,Advice,101,6503,209,33,55,41,0.511,20,0.052,0.0536
+440,2026-05-30,YouTube,Dating,Short,Text,Question,37,1319,43,5,11,12,0.512,6,0.0538,0.0571
+441,2026-01-15,Instagram,Dating,Short,Visual,Story,49,4552,213,15,60,46,0.589,26,0.0734,0.0764
+442,2026-03-23,Instagram,Dating,Long,Text,Story,136,7389,290,42,73,49,0.583,35,0.0614,0.0612
+443,2026-05-07,Instagram,Productivity,Long,Visual,Advice,85,7421,219,23,80,58,0.656,43,0.0512,0.06
+444,2026-03-01,Instagram,Friendship,Long,Visual,Relatable,68,4238,183,26,52,42,0.715,18,0.0715,0.0766
+445,2026-02-21,Instagram,Friendship,Short,Visual,Relatable,54,9662,416,40,99,73,0.663,34,0.065,0.0628
+446,2026-05-31,Instagram,Dating,Long,Visual,Advice,79,5181,203,17,36,43,0.587,17,0.0577,0.0522
+447,2026-06-19,Instagram,Productivity,Short,Visual,Advice,60,4154,204,13,40,24,0.762,20,0.0676,0.0574
+448,2026-04-22,YouTube,Self Doubt,Short,Text,Advice,25,1182,46,4,11,7,0.718,4,0.0575,0.0546
+449,2026-05-31,YouTube,Productivity,Long,Text,Story,146,5173,189,26,54,32,0.451,16,0.0582,0.0604
+450,2026-01-01,Instagram,Dating,Long,Text,Advice,154,1608,54,4,11,8,0.665,5,0.0479,0.0426
+451,2026-06-06,YouTube,Productivity,Long,Visual,Story,164,3741,101,17,33,36,0.475,21,0.05,0.0593
+452,2026-03-02,YouTube,Dating,Short,Text,Story,19,4609,243,26,55,33,0.607,24,0.0775,0.0718
+453,2026-03-09,YouTube,College Stress,Long,Visual,Question,62,4875,214,27,40,26,0.649,16,0.063,0.0546
+454,2026-01-01,YouTube,Dating,Short,Visual,Advice,21,6565,321,24,69,41,0.632,18,0.0693,0.0617
+455,2026-05-07,Instagram,Social Anxiety,Long,Text,Relatable,113,4466,201,18,62,48,0.656,27,0.0737,0.0804
+456,2026-05-28,YouTube,Self Doubt,Long,Text,Question,171,5588,213,27,71,55,0.576,30,0.0655,0.0746
+457,2026-03-17,Instagram,Productivity,Short,Visual,Relatable,17,1751,64,8,22,17,0.803,8,0.0634,0.0731
+458,2026-04-07,Instagram,Social Anxiety,Long,Text,Question,82,1145,57,7,13,12,0.561,7,0.0777,0.0766
+459,2026-04-21,YouTube,Dating,Short,Visual,Advice,16,2028,93,9,21,14,0.69,11,0.0676,0.063
+460,2026-02-22,Instagram,Productivity,Short,Text,Story,36,2983,124,14,29,20,0.528,9,0.0627,0.06
+461,2026-01-13,YouTube,Dating,Long,Text,Advice,73,6634,194,31,55,55,0.685,33,0.0505,0.0558
+462,2026-01-23,YouTube,Self Doubt,Long,Visual,Question,115,4188,188,23,54,46,0.706,25,0.0743,0.0801
+463,2026-06-13,Instagram,College Stress,Long,Visual,Question,82,575,17,2,4,5,0.576,2,0.0487,0.0509
+464,2026-05-01,YouTube,College Stress,Short,Text,Question,40,962,30,2,8,5,0.719,3,0.0468,0.0463
+465,2026-04-08,Instagram,Self Doubt,Long,Visual,Relatable,174,1429,69,9,13,15,0.65,6,0.0742,0.0698
+466,2026-03-09,YouTube,College Stress,Short,Text,Question,44,3596,142,18,23,24,0.636,8,0.0576,0.0499
+467,2026-03-30,Instagram,Dating,Long,Visual,Story,146,2607,80,10,23,22,0.54,9,0.0518,0.0568
+468,2026-04-18,YouTube,Friendship,Long,Visual,Question,127,985,45,4,9,6,0.563,2,0.065,0.0571
+469,2026-01-09,YouTube,Friendship,Long,Visual,Relatable,111,1807,78,6,17,19,0.496,6,0.0664,0.065
+470,2026-02-19,Instagram,Friendship,Short,Visual,Relatable,28,5285,212,20,61,42,0.65,26,0.0634,0.0662
+471,2026-02-07,YouTube,Dating,Short,Text,Question,55,2359,103,10,16,20,0.654,7,0.0632,0.0546
+472,2026-04-12,Instagram,Friendship,Long,Text,Question,132,1719,60,7,19,10,0.548,7,0.0558,0.0596
+473,2026-06-09,Instagram,Friendship,Long,Text,Relatable,150,9230,343,51,113,103,0.524,46,0.0661,0.0766
+474,2026-05-31,Instagram,Friendship,Long,Visual,Relatable,133,6604,330,41,70,48,0.611,30,0.074,0.0681
+475,2026-03-30,YouTube,Friendship,Short,Visual,Question,49,2881,139,16,28,29,0.816,13,0.0736,0.0697
+476,2026-03-12,YouTube,Self Doubt,Long,Text,Relatable,83,2117,87,8,18,25,0.393,7,0.0652,0.0651
+477,2026-06-26,YouTube,Self Doubt,Short,Text,Question,36,10277,452,53,82,90,0.76,39,0.0659,0.0602
+478,2026-03-19,YouTube,Dating,Short,Text,Advice,36,1669,73,5,12,10,0.662,4,0.0599,0.049
+479,2026-04-24,Instagram,College Stress,Long,Text,Question,99,2087,84,11,19,12,0.617,7,0.0604,0.0568
+480,2026-04-15,Instagram,College Stress,Long,Text,Question,88,2109,55,9,22,19,0.646,7,0.0498,0.0622
+481,2026-05-10,Instagram,Productivity,Long,Text,Question,100,1456,39,7,10,9,0.605,3,0.0446,0.0469
+482,2026-01-15,Instagram,Self Doubt,Short,Visual,Story,27,3613,190,21,32,31,0.71,14,0.0758,0.0656
+483,2026-03-12,YouTube,Dating,Short,Text,Question,27,2921,149,9,23,19,0.557,8,0.0685,0.054
+484,2026-05-06,Instagram,College Stress,Long,Text,Question,108,2849,93,14,19,21,0.621,9,0.0516,0.0503
+485,2026-03-08,YouTube,Friendship,Long,Visual,Relatable,81,2117,99,8,17,15,0.711,7,0.0657,0.0556
+486,2026-05-27,YouTube,Productivity,Short,Text,Question,25,14278,658,58,120,75,0.648,34,0.0638,0.0533
+487,2026-05-12,YouTube,Dating,Short,Visual,Story,41,769,42,2,5,6,0.818,2,0.0715,0.0527
+488,2026-02-27,Instagram,Social Anxiety,Short,Text,Story,15,3505,150,15,36,41,0.559,17,0.069,0.0713
+489,2026-04-28,YouTube,College Stress,Long,Text,Relatable,105,2104,79,8,22,18,0.579,12,0.0604,0.0636
+490,2026-01-02,YouTube,College Stress,Short,Text,Advice,21,1966,60,9,16,16,0.617,6,0.0514,0.0552
+491,2026-03-28,Instagram,Friendship,Long,Text,Advice,69,2626,116,12,29,17,0.545,12,0.0663,0.064
+492,2026-05-13,YouTube,College Stress,Long,Text,Advice,80,1391,54,7,14,11,0.642,5,0.0618,0.0633
+493,2026-06-17,Instagram,Dating,Short,Text,Advice,16,5268,277,19,40,29,0.748,16,0.0693,0.0523
+494,2026-01-10,YouTube,Self Doubt,Long,Text,Relatable,155,1749,74,11,14,14,0.45,9,0.0646,0.06
+495,2026-04-02,YouTube,Friendship,Short,Text,Story,57,3679,131,23,36,32,0.538,14,0.0603,0.065
+496,2026-02-02,YouTube,Friendship,Long,Visual,Story,121,11489,520,65,137,128,0.57,79,0.074,0.0779
+497,2026-02-27,Instagram,Productivity,Long,Visual,Advice,106,1608,54,7,17,13,0.74,6,0.0566,0.0628
+498,2026-03-17,YouTube,Productivity,Long,Text,Advice,135,1454,38,4,10,9,0.624,5,0.042,0.0437
+499,2026-05-09,Instagram,Self Doubt,Short,Text,Question,27,3748,168,15,36,27,0.584,16,0.0656,0.0604
+500,2026-02-08,Instagram,Social Anxiety,Long,Text,Relatable,170,1358,43,7,19,12,0.531,9,0.0596,0.0753

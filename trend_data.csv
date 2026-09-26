@@ -1,0 +1,157 @@
+week,keyword,trend_score
+2026-01-01,Social Anxiety,111
+2026-01-01,Dating,103
+2026-01-01,College Stress,105
+2026-01-01,Self Doubt,126
+2026-01-01,Friendship,114
+2026-01-01,Productivity,105
+2026-01-08,Social Anxiety,68
+2026-01-08,Dating,84
+2026-01-08,College Stress,97
+2026-01-08,Self Doubt,103
+2026-01-08,Friendship,81
+2026-01-08,Productivity,151
+2026-01-15,Social Anxiety,129
+2026-01-15,Dating,112
+2026-01-15,College Stress,110
+2026-01-15,Self Doubt,95
+2026-01-15,Friendship,85
+2026-01-15,Productivity,110
+2026-01-22,Social Anxiety,102
+2026-01-22,Dating,84
+2026-01-22,College Stress,106
+2026-01-22,Self Doubt,97
+2026-01-22,Friendship,62
+2026-01-22,Productivity,87
+2026-01-29,Social Anxiety,102
+2026-01-29,Dating,145
+2026-01-29,College Stress,125
+2026-01-29,Self Doubt,82
+2026-01-29,Friendship,116
+2026-01-29,Productivity,75
+2026-02-05,Social Anxiety,122
+2026-02-05,Dating,98
+2026-02-05,College Stress,104
+2026-02-05,Self Doubt,130
+2026-02-05,Friendship,76
+2026-02-05,Productivity,67
+2026-02-12,Social Anxiety,104
+2026-02-12,Dating,127
+2026-02-12,College Stress,71
+2026-02-12,Self Doubt,54
+2026-02-12,Friendship,92
+2026-02-12,Productivity,115
+2026-02-19,Social Anxiety,124
+2026-02-19,Dating,99
+2026-02-19,College Stress,105
+2026-02-19,Self Doubt,132
+2026-02-19,Friendship,82
+2026-02-19,Productivity,104
+2026-02-26,Social Anxiety,113
+2026-02-26,Dating,106
+2026-02-26,College Stress,98
+2026-02-26,Self Doubt,115
+2026-02-26,Friendship,70
+2026-02-26,Productivity,111
+2026-03-05,Social Anxiety,109
+2026-03-05,Dating,95
+2026-03-05,College Stress,123
+2026-03-05,Self Doubt,133
+2026-03-05,Friendship,119
+2026-03-05,Productivity,130
+2026-03-12,Social Anxiety,101
+2026-03-12,Dating,87
+2026-03-12,College Stress,110
+2026-03-12,Self Doubt,112
+2026-03-12,Friendship,87
+2026-03-12,Productivity,126
+2026-03-19,Social Anxiety,139
+2026-03-19,Dating,87
+2026-03-19,College Stress,130
+2026-03-19,Self Doubt,122
+2026-03-19,Friendship,140
+2026-03-19,Productivity,142
+2026-03-26,Social Anxiety,103
+2026-03-26,Dating,86
+2026-03-26,College Stress,96
+2026-03-26,Self Doubt,79
+2026-03-26,Friendship,157
+2026-03-26,Productivity,82
+2026-04-02,Social Anxiety,88
+2026-04-02,Dating,98
+2026-04-02,College Stress,63
+2026-04-02,Self Doubt,122
+2026-04-02,Friendship,109
+2026-04-02,Productivity,106
+2026-04-09,Social Anxiety,142
+2026-04-09,Dating,99
+2026-04-09,College Stress,109
+2026-04-09,Self Doubt,103
+2026-04-09,Friendship,136
+2026-04-09,Productivity,87
+2026-04-16,Social Anxiety,139
+2026-04-16,Dating,115
+2026-04-16,College Stress,93
+2026-04-16,Self Doubt,159
+2026-04-16,Friendship,90
+2026-04-16,Productivity,162
+2026-04-23,Social Anxiety,121
+2026-04-23,Dating,123
+2026-04-23,College Stress,159
+2026-04-23,Self Doubt,115
+2026-04-23,Friendship,107
+2026-04-23,Productivity,82
+2026-04-30,Social Anxiety,174
+2026-04-30,Dating,149
+2026-04-30,College Stress,91
+2026-04-30,Self Doubt,123
+2026-04-30,Friendship,106
+2026-04-30,Productivity,148
+2026-05-07,Social Anxiety,143
+2026-05-07,Dating,123
+2026-05-07,College Stress,85
+2026-05-07,Self Doubt,121
+2026-05-07,Friendship,53
+2026-05-07,Productivity,146
+2026-05-14,Social Anxiety,124
+2026-05-14,Dating,150
+2026-05-14,College Stress,104
+2026-05-14,Self Doubt,145
+2026-05-14,Friendship,108
+2026-05-14,Productivity,139
+2026-05-21,Social Anxiety,141
+2026-05-21,Dating,116
+2026-05-21,College Stress,134
+2026-05-21,Self Doubt,158
+2026-05-21,Friendship,179
+2026-05-21,Productivity,162
+2026-05-28,Social Anxiety,145
+2026-05-28,Dating,104
+2026-05-28,College Stress,61
+2026-05-28,Self Doubt,108
+2026-05-28,Friendship,111
+2026-05-28,Productivity,76
+2026-06-04,Social Anxiety,133
+2026-06-04,Dating,76
+2026-06-04,College Stress,120
+2026-06-04,Self Doubt,117
+2026-06-04,Friendship,95
+2026-06-04,Productivity,132
+2026-06-11,Social Anxiety,117
+2026-06-11,Dating,84
+2026-06-11,College Stress,123
+2026-06-11,Self Doubt,184
+2026-06-11,Friendship,80
+2026-06-11,Productivity,109
+2026-06-18,Social Anxiety,121
+2026-06-18,Dating,98
+2026-06-18,College Stress,136
+2026-06-18,Self Doubt,180
+2026-06-18,Friendship,40
+2026-06-18,Productivity,175
+2026-06-25,Social Anxiety,158
+2026-06-25,Dating,71
+2026-06-25,College Stress,167
+2026-06-25,Self Doubt,143
+2026-06-25,Friendship,65
+2026-06-25,Productivity,143
